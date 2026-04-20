@@ -30,5 +30,8 @@ Modern autonomous systems (e.g., autonomous vehicles, automated surveillance) re
 * **Quality Control**: Laplacian Variance checks to filter input frames with high motion blur.
 * **Model Pruning**: Systematic removal of redundant neurons to optimize performance for resource-constrained edge-computing devices.
 * **Latency Reduction**: Integration of YOLOv10 for NMS-free (Non-Maximum Suppression) inference.
+## Processed Videos
+
+https://drive.google.com/drive/folders/1PyxrEbPvkUkjqstuR1rltzoJ-FqmLucx?usp=drive_link
 
 ---
